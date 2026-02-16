@@ -1,0 +1,12 @@
+{
+  "name": "source-repo-test",
+  "version": "1.0.0",
+  "description": "Test repository for Copybara",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  },
+  "keywords": ["test", "copybara"],
+  "author": "",
+  "license": "MIT"
+}
