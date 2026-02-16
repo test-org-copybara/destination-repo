@@ -1,13 +1,14 @@
 {
   "name": "source-repo-test",
-  "version": "1.1.0",
-  "description": "Test repository for Copybara - Updated",
+  "version": "1.2.0",
+  "description": "Test repository for Copybara - Updated again",
   "main": "index.js",
   "scripts": {
     "test": "echo \"No tests yet\"",
-    "build": "echo \"Build script\""
+    "build": "echo \"Build script\"",
+    "start": "echo \"Start script\""
   },
-  "keywords": ["test", "copybara", "sync"],
+  "keywords": ["test", "copybara", "sync", "pr-workflow"],
   "author": "Test Author",
   "license": "MIT"
 }
