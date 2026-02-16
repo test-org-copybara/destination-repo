@@ -6,3 +6,8 @@ This is a test repository for Copybara synchronization.
 - Component library
 - Utility functions
 - Documentation
+
+## Recent Updates
+- Added IconButton component
+- Added validation utilities
+- Improved documentation
